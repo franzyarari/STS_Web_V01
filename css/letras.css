@@ -1,0 +1,21 @@
+.letras-slider {
+  width: 80%;
+  margin: auto;
+}
+.letras-slider h1 {
+  color: #fff;
+  font-family: rale;
+  font-size: 35px;
+}
+.letras-slider p {
+  color: #fff;
+  font-size: 25px;
+  font-family: rale;
+  padding-top: auto;
+}
+.letras-modal p {
+  color: #6a6a6a;
+  font-size: 25px;
+  font-family: "Raleway", sans-serif;
+  padding-top: 50px;
+}
